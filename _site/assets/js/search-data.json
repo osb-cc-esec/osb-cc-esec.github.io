@@ -1,0 +1,134 @@
+{"0": {
+    "doc": "APIs",
+    "title": "APIs",
+    "content": "# APIs {: .no_toc } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## Device API ## Feature API ## Hawkbit API ",
+    "url": "/docs/API/APIs.html",
+    "relUrl": "/docs/API/APIs.html"
+  },"1": {
+    "doc": "About",
+    "title": "About",
+    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/) You can find the source code for Minima at GitHub: [jekyll][jekyll-organization] / [minima](https://github.com/jekyll/minima) You can find the source code for Jekyll at GitHub: [jekyll][jekyll-organization] / [jekyll](https://github.com/jekyll/jekyll) [jekyll-organization]: https://github.com/jekyll ",
+    "url": "/about/",
+    "relUrl": "/about/"
+  },"2": {
+    "doc": "User & Customer Administration",
+    "title": "User & Customer Administration",
+    "content": " ",
+    "url": "/docs/GUI/administration.html",
+    "relUrl": "/docs/GUI/administration.html"
+  },"3": {
+    "doc": "Change Log",
+    "title": "Change Log",
+    "content": " ",
+    "url": "/docs/GUI/change-log.html",
+    "relUrl": "/docs/GUI/change-log.html"
+  },"4": {
+    "doc": "Contact us",
+    "title": "Contact us",
+    "content": "Please contact us ",
+    "url": "/contact/",
+    "relUrl": "/contact/"
+  },"5": {
+    "doc": "Customization",
+    "title": "Customization",
+    "content": "# Customization {: .no_toc } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## Color schemes {: .d-inline-block } New {: .label .label-green } Just the Docs supports two color schemes: light (default), and dark. To enable a color scheme, set the `color_scheme` parameter in your site's `_config.yml` file: #### Example {: .no_toc } ```yaml # Color scheme supports \"light\" (default) and \"dark\" color_scheme: dark ``` Preview dark color scheme ## Custom schemes ### Define a custom scheme You can add custom schemes. If you want to add a scheme named `foo` (can be any name) just add a file `_sass/color_schemes/foo.scss` (replace `foo` by your scheme name) where you override theme variables to change colors, fonts, spacing, etc. Available variables are listed in the [_variables.scss](https://github.com/pmarsceill/just-the-docs/tree/master/_sass/support/_variables.scss) file. For example, to change the link color from the purple default to blue, include the following inside your scheme file: #### Example {: .no_toc } ```scss $link-color: $blue-000; ``` _Note:_ Editing the variables directly in `_sass/support/variables.scss` is not recommended and can cause other dependencies to fail. Please use scheme files. ### Use a custom scheme To use the custom color scheme, only set the `color_scheme` parameter in your site's `_config.yml` file: ```yaml color_scheme: foo ``` ### Switchable custom scheme If you want to be able to change the scheme dynamically, for example via javascript, just add a file `assets/css/just-the-docs-foo.scss` (replace `foo` by your scheme name) with the following content:` {% raw %} --- --- {% include css/just-the-docs.scss.liquid color_scheme=\"foo\" %} {% endraw %} This allows you to switch the scheme via the following javascript. ```js jtd.setTheme('foo'); ``` ## Override and completely custom styles For styles that aren't defined as variables, you may want to modify specific CSS classes. Additionally, you may want to add completely custom CSS specific to your content. To do this, put your styles in the file `_sass/custom/custom.scss`. This will allow for all overrides to be kept in a single file, and for any upstream changes to still be applied. For example, if you'd like to add your own styles for printing a page, you could add the following styles. #### Example {: .no_toc } ```scss // Print-only styles. @media print { .side-bar, .page-header { display: none; } .main-content { max-width: auto; margin: 1em;} } ``` ",
+    "url": "/docs/customization.html",
+    "relUrl": "/docs/customization.html"
+  },"6": {
+    "doc": "Device API",
+    "title": "Device API",
+    "content": " ",
+    "url": "/docs/API/device-api.html",
+    "relUrl": "/docs/API/device-api.html"
+  },"7": {
+    "doc": "Device Overview",
+    "title": "Device Overview",
+    "content": " ",
+    "url": "/docs/GUI/device-overview.html",
+    "relUrl": "/docs/GUI/device-overview.html"
+  },"8": {
+    "doc": "Feature API",
+    "title": "Feature API",
+    "content": " ",
+    "url": "/docs/API/feature-api.html",
+    "relUrl": "/docs/API/feature-api.html"
+  },"9": {
+    "doc": "Hawkbit API",
+    "title": "Hawkbit API",
+    "content": " ",
+    "url": "/docs/API/hawkbit-api.html",
+    "relUrl": "/docs/API/hawkbit-api.html"
+  },"10": {
+    "doc": "Health & Filesystems",
+    "title": "Health & Filesystems",
+    "content": " ",
+    "url": "/docs/GUI/health-view.html",
+    "relUrl": "/docs/GUI/health-view.html"
+  },"11": {
+    "doc": "Home page",
+    "title": "Home page",
+    "content": "# Home page {: .no_toc } The home page is main page of the GUI ![](/docs/images/screenshots/home.png) ## {: .no_toc .text-delta } 1. TOC {:toc} --- View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example. ## Quick Access ## Fleet Tables General introduction (why are they needed) We have to mention the Download CSV file feature and filters ### Device Overview ### Health & Filesystems ### WhereverSIM ### Software ### Statistics ### Ownership & Intergration ## Information & Administration ### Info & Support ### User & Customer Administration ### EhereverSIM Activation ## IoT Device Manager Product ### Change Log ### Roadmap ### Device API ### Feature API ### Hawkbit API ### Add Device ## Privacy ## Account Feature ### MFA ### Change password ### Session Timeout ",
+    "url": "/docs/GUI/home-page.html",
+    "relUrl": "/docs/GUI/home-page.html"
+  },"12": {
+    "doc": "GUI",
+    "title": "GUI",
+    "content": "# GUI ",
+    "url": "/docs/GUI/",
+    "relUrl": "/docs/GUI/"
+  },"13": {
+    "doc": "API",
+    "title": "API",
+    "content": "# API ",
+    "url": "/docs/API/",
+    "relUrl": "/docs/API/"
+  },"14": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "# OSB CC-ESEC IoT Device Manager User Manuel {: .fs-9 } --- [Navigate to our GUI](https://iot.aws.esec-experts.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View our organization on GitHub](https://github.com/osb-cc-esec){: .btn .fs-5 .mb-4 .mb-md-0 } --- Preview dark color scheme --- ## About the project Just the Docs is &copy; 2017-{{ \"now\" | date: \"%Y\" }} by [Patrick Marsceill](http://patrickmarsceill.com). ### License Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt). ",
+    "url": "/",
+    "relUrl": "/"
+  },"15": {
+    "doc": "Info & Support",
+    "title": "Info & Support",
+    "content": " ",
+    "url": "/docs/GUI/info-and-support.html",
+    "relUrl": "/docs/GUI/info-and-support.html"
+  },"16": {
+    "doc": "Multi Factor Authentication",
+    "title": "Multi Factor Authentication",
+    "content": " ",
+    "url": "/docs/GUI/mfa.html",
+    "relUrl": "/docs/GUI/mfa.html"
+  },"17": {
+    "doc": "Ownership & Intergrations",
+    "title": "Ownership & Intergrations",
+    "content": " ",
+    "url": "/docs/GUI/ownership.html",
+    "relUrl": "/docs/GUI/ownership.html"
+  },"18": {
+    "doc": "Raodmap",
+    "title": "Raodmap",
+    "content": " ",
+    "url": "/docs/GUI/road-map.html",
+    "relUrl": "/docs/GUI/road-map.html"
+  },"19": {
+    "doc": "Software View",
+    "title": "Software View",
+    "content": " ",
+    "url": "/docs/GUI/software-view.html",
+    "relUrl": "/docs/GUI/software-view.html"
+  },"20": {
+    "doc": "Statistics",
+    "title": "Statistics",
+    "content": " ",
+    "url": "/docs/GUI/statistics.html",
+    "relUrl": "/docs/GUI/statistics.html"
+  },"21": {
+    "doc": "WhereverSIM",
+    "title": "WhereverSIM",
+    "content": " ",
+    "url": "/docs/GUI/whereversim.html",
+    "relUrl": "/docs/GUI/whereversim.html"
+  }
+}
