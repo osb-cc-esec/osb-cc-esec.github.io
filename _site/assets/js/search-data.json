@@ -1,6 +1,6 @@
 {"0": {
-    "doc": "APIs",
-    "title": "APIs",
+    "doc": "API",
+    "title": "API",
     "content": "# APIs {: .no_toc } ## {: .no_toc .text-delta } 1. TOC {:toc} --- ## Device API ## Feature API ## Hawkbit API ",
     "url": "/docs/API/APIs.html",
     "relUrl": "/docs/API/APIs.html"
@@ -44,8 +44,8 @@
     "doc": "Device Overview",
     "title": "Device Overview",
     "content": " ",
-    "url": "/docs/GUI/device-overview.html",
-    "relUrl": "/docs/GUI/device-overview.html"
+    "url": "/gui/fleet-tables/device-overview",
+    "relUrl": "/gui/fleet-tables/device-overview"
   },"8": {
     "doc": "Feature API",
     "title": "Feature API",
@@ -53,35 +53,35 @@
     "url": "/docs/API/feature-api.html",
     "relUrl": "/docs/API/feature-api.html"
   },"9": {
+    "doc": "Fleet Tables",
+    "title": "Fleet Tables",
+    "content": "# Fleet Tables ",
+    "url": "/gui/fleet-tables",
+    "relUrl": "/gui/fleet-tables"
+  },"10": {
+    "doc": "GUI",
+    "title": "GUI",
+    "content": "# GUI ",
+    "url": "/docs/GUI/gui.html",
+    "relUrl": "/docs/GUI/gui.html"
+  },"11": {
     "doc": "Hawkbit API",
     "title": "Hawkbit API",
     "content": " ",
     "url": "/docs/API/hawkbit-api.html",
     "relUrl": "/docs/API/hawkbit-api.html"
-  },"10": {
+  },"12": {
     "doc": "Health & Filesystems",
     "title": "Health & Filesystems",
     "content": " ",
-    "url": "/docs/GUI/health-view.html",
-    "relUrl": "/docs/GUI/health-view.html"
-  },"11": {
+    "url": "/gui/fleet-tables/health-view",
+    "relUrl": "/gui/fleet-tables/health-view"
+  },"13": {
     "doc": "Home page",
     "title": "Home page",
     "content": "# Home page {: .no_toc } The home page is main page of the GUI ![](/docs/images/screenshots/home.png) ## {: .no_toc .text-delta } 1. TOC {:toc} --- View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example. ## Quick Access ## Fleet Tables General introduction (why are they needed) We have to mention the Download CSV file feature and filters ### Device Overview ### Health & Filesystems ### WhereverSIM ### Software ### Statistics ### Ownership & Intergration ## Information & Administration ### Info & Support ### User & Customer Administration ### EhereverSIM Activation ## IoT Device Manager Product ### Change Log ### Roadmap ### Device API ### Feature API ### Hawkbit API ### Add Device ## Privacy ## Account Feature ### MFA ### Change password ### Session Timeout ",
     "url": "/docs/GUI/home-page.html",
     "relUrl": "/docs/GUI/home-page.html"
-  },"12": {
-    "doc": "GUI",
-    "title": "GUI",
-    "content": "# GUI ",
-    "url": "/docs/GUI/",
-    "relUrl": "/docs/GUI/"
-  },"13": {
-    "doc": "API",
-    "title": "API",
-    "content": "# API ",
-    "url": "/docs/API/",
-    "relUrl": "/docs/API/"
   },"14": {
     "doc": "Home",
     "title": "Home",
@@ -103,9 +103,9 @@
   },"17": {
     "doc": "Ownership & Intergrations",
     "title": "Ownership & Intergrations",
-    "content": " ",
-    "url": "/docs/GUI/ownership.html",
-    "relUrl": "/docs/GUI/ownership.html"
+    "content": "# ",
+    "url": "/gui/fleet-tables/ownership-view",
+    "relUrl": "/gui/fleet-tables/ownership-view"
   },"18": {
     "doc": "Raodmap",
     "title": "Raodmap",
@@ -116,19 +116,19 @@
     "doc": "Software View",
     "title": "Software View",
     "content": " ",
-    "url": "/docs/GUI/software-view.html",
-    "relUrl": "/docs/GUI/software-view.html"
+    "url": "/gui/fleet-tables/software-view",
+    "relUrl": "/gui/fleet-tables/software-view"
   },"20": {
     "doc": "Statistics",
     "title": "Statistics",
     "content": " ",
-    "url": "/docs/GUI/statistics.html",
-    "relUrl": "/docs/GUI/statistics.html"
+    "url": "/gui/fleet-tables/statistics",
+    "relUrl": "/gui/fleet-tables/statistics"
   },"21": {
     "doc": "WhereverSIM",
     "title": "WhereverSIM",
     "content": " ",
-    "url": "/docs/GUI/whereversim.html",
-    "relUrl": "/docs/GUI/whereversim.html"
+    "url": "/gui/fleet-tables/whereversim",
+    "relUrl": "/gui/fleet-tables/whereversim"
   }
 }
