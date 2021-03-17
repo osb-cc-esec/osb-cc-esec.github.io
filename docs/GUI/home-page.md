@@ -6,13 +6,13 @@ nav_order: 1
 permalink: /GUI/home-page
 ---
 
-# Home page
+# Home Page
 {: .no_toc }
 
 The home page is main page of the GUI
 
+<image src="/docs/images/screenshots/home.png" width="900" />
 
-![](/docs/images/screenshots/home.png)
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -24,6 +24,8 @@ The home page is main page of the GUI
 
 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
+
+## Navigation Bar
 
 
 ## Quick Access
