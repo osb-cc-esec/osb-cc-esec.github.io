@@ -1,8 +1,8 @@
 ---
 layout: default
-title: file-transfer
-parent: device-details
+title: File Transfer
+parent: Device Details
 grand_parent: GUI
-nav_order: 1
-permalink: /:grand_parent/:parent/:title
+nav_order: 7
+permalink: /gui/device-details/file-transfer
 ---

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: whereversim
-parent: device-details
+title: WhereverSIM
+parent: Device Details
 grand_parent: GUI
-nav_order: 1
-permalink: /:grand_parent/:parent/:title
+nav_order: 6
+permalink: /gui/device-details/whereversim
 ---

@@ -2,5 +2,6 @@
 layout: default
 title: Change Log
 parent: GUI
-nav_order: 2
+nav_order: 5
+permalink: /GUI/change-log
 ---

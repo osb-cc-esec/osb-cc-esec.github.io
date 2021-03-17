@@ -1,8 +1,8 @@
 ---
 layout: default
-title: remote-command
-parent: device-details
+title: Remote Command
+parent: Device Details
 grand_parent: GUI
-nav_order: 1
-permalink: /:grand_parent/:parent/:title
+nav_order: 8
+permalink: /gui/device-details/remote-command
 ---

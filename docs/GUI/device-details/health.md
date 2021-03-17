@@ -1,8 +1,8 @@
 ---
 layout: default
-title: health
-parent: device-details
+title: System Health
+parent: Device Details
 grand_parent: GUI
-nav_order: 1
-permalink: /:grand_parent/:parent/:title
+nav_order: 2
+permalink: /gui/device-details/health
 ---
