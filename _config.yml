@@ -17,6 +17,8 @@ title: OSB CC-ESEC docs
 description: OSB CC-ESEC docs
 
 theme: just-the-docs
+plugins:
+  - jekyll-seo-tag
 
 # Enable or disable the site search
 # Supports true (default) or false
