@@ -41,94 +41,154 @@
     "url": "/docs/API/device-api.html",
     "relUrl": "/docs/API/device-api.html"
   },"7": {
+    "doc": "device-details",
+    "title": "device-details",
+    "content": "# Device Details ",
+    "url": "/:parent/:title",
+    "relUrl": "/:parent/:title"
+  },"8": {
+    "doc": "device-logger",
+    "title": "device-logger",
+    "content": " ",
+    "url": "/:grand_parent/:parent/:title",
+    "relUrl": "/:grand_parent/:parent/:title"
+  },"9": {
     "doc": "Device Overview",
     "title": "Device Overview",
     "content": " ",
     "url": "/gui/fleet-tables/device-overview",
     "relUrl": "/gui/fleet-tables/device-overview"
-  },"8": {
+  },"10": {
     "doc": "Feature API",
     "title": "Feature API",
     "content": " ",
     "url": "/docs/API/feature-api.html",
     "relUrl": "/docs/API/feature-api.html"
-  },"9": {
+  },"11": {
+    "doc": "file-transfer",
+    "title": "file-transfer",
+    "content": " ",
+    "url": "/:grand_parent/:parent/:title",
+    "relUrl": "/:grand_parent/:parent/:title"
+  },"12": {
+    "doc": "firmware-update",
+    "title": "firmware-update",
+    "content": " ",
+    "url": "/:grand_parent/:parent/:title",
+    "relUrl": "/:grand_parent/:parent/:title"
+  },"13": {
     "doc": "Fleet Tables",
     "title": "Fleet Tables",
     "content": "# Fleet Tables ",
     "url": "/gui/fleet-tables",
     "relUrl": "/gui/fleet-tables"
-  },"10": {
+  },"14": {
     "doc": "GUI",
     "title": "GUI",
     "content": "# GUI ",
-    "url": "/docs/GUI/gui.html",
-    "relUrl": "/docs/GUI/gui.html"
-  },"11": {
+    "url": "/:title",
+    "relUrl": "/:title"
+  },"15": {
     "doc": "Hawkbit API",
     "title": "Hawkbit API",
     "content": " ",
     "url": "/docs/API/hawkbit-api.html",
     "relUrl": "/docs/API/hawkbit-api.html"
-  },"12": {
+  },"16": {
     "doc": "Health & Filesystems",
     "title": "Health & Filesystems",
     "content": " ",
     "url": "/gui/fleet-tables/health-view",
     "relUrl": "/gui/fleet-tables/health-view"
-  },"13": {
+  },"17": {
+    "doc": "health",
+    "title": "health",
+    "content": " ",
+    "url": "/:grand_parent/:parent/:title",
+    "relUrl": "/:grand_parent/:parent/:title"
+  },"18": {
     "doc": "Home page",
     "title": "Home page",
     "content": "# Home page {: .no_toc } The home page is main page of the GUI ![](/docs/images/screenshots/home.png) ## {: .no_toc .text-delta } 1. TOC {:toc} --- View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example. ## Quick Access ## Fleet Tables General introduction (why are they needed) We have to mention the Download CSV file feature and filters ### Device Overview ### Health & Filesystems ### WhereverSIM ### Software ### Statistics ### Ownership & Intergration ## Information & Administration ### Info & Support ### User & Customer Administration ### EhereverSIM Activation ## IoT Device Manager Product ### Change Log ### Roadmap ### Device API ### Feature API ### Hawkbit API ### Add Device ## Privacy ## Account Feature ### MFA ### Change password ### Session Timeout ",
     "url": "/docs/GUI/home-page.html",
     "relUrl": "/docs/GUI/home-page.html"
-  },"14": {
+  },"19": {
     "doc": "Home",
     "title": "Home",
     "content": "# OSB CC-ESEC IoT Device Manager User Manuel {: .fs-9 } --- [Navigate to our GUI](https://iot.aws.esec-experts.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View our organization on GitHub](https://github.com/osb-cc-esec){: .btn .fs-5 .mb-4 .mb-md-0 } --- Preview dark color scheme --- ## About the project Just the Docs is &copy; 2017-{{ \"now\" | date: \"%Y\" }} by [Patrick Marsceill](http://patrickmarsceill.com). ### License Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt). ",
     "url": "/",
     "relUrl": "/"
-  },"15": {
+  },"20": {
     "doc": "Info & Support",
     "title": "Info & Support",
     "content": " ",
     "url": "/docs/GUI/info-and-support.html",
     "relUrl": "/docs/GUI/info-and-support.html"
-  },"16": {
+  },"21": {
     "doc": "Multi Factor Authentication",
     "title": "Multi Factor Authentication",
     "content": " ",
     "url": "/docs/GUI/mfa.html",
     "relUrl": "/docs/GUI/mfa.html"
-  },"17": {
+  },"22": {
+    "doc": "overview",
+    "title": "overview",
+    "content": " ",
+    "url": "/:grand_parent/:parent/:title",
+    "relUrl": "/:grand_parent/:parent/:title"
+  },"23": {
     "doc": "Ownership & Intergrations",
     "title": "Ownership & Intergrations",
     "content": "# ",
     "url": "/gui/fleet-tables/ownership-view",
     "relUrl": "/gui/fleet-tables/ownership-view"
-  },"18": {
+  },"24": {
+    "doc": "remote-access",
+    "title": "remote-access",
+    "content": " ",
+    "url": "/:grand_parent/:parent/:title",
+    "relUrl": "/:grand_parent/:parent/:title"
+  },"25": {
+    "doc": "remote-command",
+    "title": "remote-command",
+    "content": " ",
+    "url": "/:grand_parent/:parent/:title",
+    "relUrl": "/:grand_parent/:parent/:title"
+  },"26": {
     "doc": "Raodmap",
     "title": "Raodmap",
     "content": " ",
     "url": "/docs/GUI/road-map.html",
     "relUrl": "/docs/GUI/road-map.html"
-  },"19": {
+  },"27": {
     "doc": "Software View",
     "title": "Software View",
     "content": " ",
     "url": "/gui/fleet-tables/software-view",
     "relUrl": "/gui/fleet-tables/software-view"
-  },"20": {
+  },"28": {
     "doc": "Statistics",
     "title": "Statistics",
     "content": " ",
     "url": "/gui/fleet-tables/statistics",
     "relUrl": "/gui/fleet-tables/statistics"
-  },"21": {
+  },"29": {
+    "doc": "team-viewer",
+    "title": "team-viewer",
+    "content": " ",
+    "url": "/:grand_parent/:parent/:title",
+    "relUrl": "/:grand_parent/:parent/:title"
+  },"30": {
     "doc": "WhereverSIM",
     "title": "WhereverSIM",
     "content": " ",
     "url": "/gui/fleet-tables/whereversim",
     "relUrl": "/gui/fleet-tables/whereversim"
+  },"31": {
+    "doc": "whereversim",
+    "title": "whereversim",
+    "content": " ",
+    "url": "/:grand_parent/:parent/:title",
+    "relUrl": "/:grand_parent/:parent/:title"
   }
 }
