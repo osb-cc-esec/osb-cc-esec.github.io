@@ -13,7 +13,7 @@
   },"2": {
     "doc": "Change Log",
     "title": "Change Log",
-    "content": " ",
+    "content": "# Change Log Keep yourself updated about our new features, improvements and bugfixes. ",
     "url": "/GUI/change-log",
     "relUrl": "/GUI/change-log"
   },"3": {
@@ -73,7 +73,7 @@
   },"12": {
     "doc": "GUI",
     "title": "GUI",
-    "content": "# GUI ",
+    "content": "# GUI Our IoT device Manager GUI is simple, dynamic, flexible, easy to use and most importantly: safe and secure. [Request your demo account Now!](https://www.esec-experts.com/iot-device-manager/demo-account.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } ",
     "url": "/GUI",
     "relUrl": "/GUI"
   },"13": {
@@ -97,7 +97,7 @@
   },"16": {
     "doc": "Home page",
     "title": "Home page",
-    "content": "# Home Page {: .no_toc } The home page is main page of the GUI ## {: .no_toc .text-delta } 1. TOC {:toc} --- View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example. ## Navigation Bar ## Quick Access ## Fleet Tables General introduction (why are they needed) We have to mention the Download CSV file feature and filters ### Device Overview ### Health & Filesystems ### WhereverSIM ### Software ### Statistics ### Ownership & Intergration ## Information & Administration ### Info & Support ### User & Customer Administration ### EhereverSIM Activation ## IoT Device Manager Product ### Change Log ### Roadmap ### Device API ### Feature API ### Hawkbit API ### Add Device ## Privacy ## Account Feature ### MFA ### Change password ### Session Timeout ",
+    "content": "# Home Page {: .no_toc } The home page is main page of the GUI ## {: .no_toc .text-delta } 1. TOC {:toc} --- View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example. ## Quick Access ## Fleet Tables General introduction (why are they needed) We have to mention the Download CSV file feature and filters ### Device Overview ### Health & Filesystems ### WhereverSIM ### Software ### Statistics ### Ownership & Intergration ## Information & Administration ### Info & Support ### User & Customer Administration ### EhereverSIM Activation ## IoT Device Manager Product ### Change Log ### Roadmap ### Device API ### Feature API ### Hawkbit API ### Add Device ## Privacy ## Account Feature ### MFA ### Change password ### Session Timeout ",
     "url": "/GUI/home-page",
     "relUrl": "/GUI/home-page"
   },"17": {
@@ -109,13 +109,13 @@
   },"18": {
     "doc": "Info & Support",
     "title": "Info & Support",
-    "content": " ",
+    "content": "# Info & Support We've got your back. ## Personal Support and Contact Get in touch with a friendly memeber of our team. ## Support Request Sending a mail to our support address support@esec-experts.com will automatically open a support ticket. ## Downloads Find some helpful documents here. ",
     "url": "/GUI/info-and-support",
     "relUrl": "/GUI/info-and-support"
   },"19": {
     "doc": "MFA",
     "title": "MFA",
-    "content": "# Multi Factor Authentication ",
+    "content": "# Multi Factor Authentication In our GUI, we make sure that your account is always secure, that's why we supported a Time-Based One Time Password (TOTP) as a second authentication mechanism. To activate it, all you have to do is to follow the simple steps listed in the MFA activation page. ",
     "url": "/GUI/mfa",
     "relUrl": "/GUI/mfa"
   },"20": {
@@ -145,7 +145,7 @@
   },"24": {
     "doc": "Raodmap",
     "title": "Raodmap",
-    "content": " ",
+    "content": "# Roadmap ### We develop what is actually needed We work agile, which means we develop features one by one which give the best business value to our customers. We started with the most important features to manage devices. Now it's getting more and more about improving workflows and saving costs. If you miss any feature, we are glad to develop it. ",
     "url": "/GUI/roadmap",
     "relUrl": "/GUI/roadmap"
   },"25": {

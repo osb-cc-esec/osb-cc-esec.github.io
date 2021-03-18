@@ -25,8 +25,6 @@ The home page is main page of the GUI
 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
-## Navigation Bar
-
 
 ## Quick Access
 
