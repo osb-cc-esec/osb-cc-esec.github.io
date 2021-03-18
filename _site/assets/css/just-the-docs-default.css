@@ -210,6 +210,8 @@ body { position: relative; padding-bottom: 4rem; overflow-y: scroll; }
 
 .icon { width: 1.5rem; height: 1.5rem; color: #2869e6; }
 
+.img-border { border: 2px solid #a30404; }
+
 .main-content { line-height: 1.6; }
 
 .main-content ol, .main-content ul, .main-content dl, .main-content pre, .main-content address, .main-content blockquote, .main-content .table-wrapper { margin-top: 0.5em; }
