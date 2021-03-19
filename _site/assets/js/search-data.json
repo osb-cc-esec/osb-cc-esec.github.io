@@ -43,7 +43,7 @@
   },"7": {
     "doc": "Device Overview",
     "title": "Device Overview",
-    "content": " ",
+    "content": "# Device Overview ",
     "url": "/gui/fleet-tables/device-overview",
     "relUrl": "/gui/fleet-tables/device-overview"
   },"8": {
@@ -67,7 +67,7 @@
   },"11": {
     "doc": "Fleet Tables",
     "title": "Fleet Tables",
-    "content": "# Fleet Tables ",
+    "content": "# Fleet Tables Fleet Tables are made to simplify for users the access to their device fleet data. ",
     "url": "/gui/fleet-tables",
     "relUrl": "/gui/fleet-tables"
   },"12": {
@@ -85,7 +85,7 @@
   },"14": {
     "doc": "Health & Filesystems",
     "title": "Health & Filesystems",
-    "content": " ",
+    "content": "# Health Tables ",
     "url": "/gui/fleet-tables/health-view",
     "relUrl": "/gui/fleet-tables/health-view"
   },"15": {
@@ -127,7 +127,7 @@
   },"21": {
     "doc": "Ownership & Intergrations",
     "title": "Ownership & Intergrations",
-    "content": "# ",
+    "content": "# Ownership & Intergrations ",
     "url": "/gui/fleet-tables/ownership-view",
     "relUrl": "/gui/fleet-tables/ownership-view"
   },"22": {
@@ -151,13 +151,13 @@
   },"25": {
     "doc": "Software View",
     "title": "Software View",
-    "content": " ",
+    "content": "# Software View ",
     "url": "/gui/fleet-tables/software-view",
     "relUrl": "/gui/fleet-tables/software-view"
   },"26": {
     "doc": "Statistics",
     "title": "Statistics",
-    "content": " ",
+    "content": "# Statistics ",
     "url": "/gui/fleet-tables/statistics",
     "relUrl": "/gui/fleet-tables/statistics"
   },"27": {
@@ -169,7 +169,7 @@
   },"28": {
     "doc": "WhereverSIM",
     "title": "WhereverSIM",
-    "content": " ",
+    "content": "# WhereverSIM ",
     "url": "/gui/fleet-tables/whereversim",
     "relUrl": "/gui/fleet-tables/whereversim"
   },"29": {
