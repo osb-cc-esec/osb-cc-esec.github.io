@@ -10,3 +10,4 @@ permalink: /gui/device-details
 
 
 # Device Details
+

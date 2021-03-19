@@ -37,7 +37,7 @@
   },"6": {
     "doc": "Device Logger",
     "title": "Device Logger",
-    "content": " ",
+    "content": "# Device Logger ",
     "url": "/gui/device-details/device-logger",
     "relUrl": "/gui/device-details/device-logger"
   },"7": {
@@ -55,13 +55,13 @@
   },"9": {
     "doc": "File Transfer",
     "title": "File Transfer",
-    "content": " ",
+    "content": "# File Transfer ",
     "url": "/gui/device-details/file-transfer",
     "relUrl": "/gui/device-details/file-transfer"
   },"10": {
     "doc": "Firmware Update",
     "title": "Firmware Update",
-    "content": " ",
+    "content": "# Firmware Update ",
     "url": "/gui/device-details/firmware-update",
     "relUrl": "/gui/device-details/firmware-update"
   },"11": {
@@ -91,7 +91,7 @@
   },"15": {
     "doc": "System Health",
     "title": "System Health",
-    "content": " ",
+    "content": "# System Health ",
     "url": "/gui/device-details/health",
     "relUrl": "/gui/device-details/health"
   },"16": {
@@ -121,7 +121,7 @@
   },"20": {
     "doc": "Overview",
     "title": "Overview",
-    "content": " ",
+    "content": "# Overview ",
     "url": "/gui/device-details/overview",
     "relUrl": "/gui/device-details/overview"
   },"21": {
@@ -133,13 +133,13 @@
   },"22": {
     "doc": "Remote Access",
     "title": "Remote Access",
-    "content": " ",
+    "content": "# Remote Access ",
     "url": "/gui/device-details/remote-access",
     "relUrl": "/gui/device-details/remote-access"
   },"23": {
     "doc": "Remote Command",
     "title": "Remote Command",
-    "content": " ",
+    "content": "# Remote Command ",
     "url": "/gui/device-details/remote-command",
     "relUrl": "/gui/device-details/remote-command"
   },"24": {
@@ -163,7 +163,7 @@
   },"27": {
     "doc": "TeamViewer",
     "title": "TeamViewer",
-    "content": " ",
+    "content": "# TeamViewer ",
     "url": "/gui/device-details/teamviewer",
     "relUrl": "/gui/device-details/teamviewer"
   },"28": {
@@ -175,7 +175,7 @@
   },"29": {
     "doc": "WhereverSIM",
     "title": "WhereverSIM",
-    "content": " ",
+    "content": "# WhereverSIM ",
     "url": "/gui/device-details/whereversim",
     "relUrl": "/gui/device-details/whereversim"
   }
